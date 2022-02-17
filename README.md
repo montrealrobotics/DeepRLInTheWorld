@@ -11,4 +11,5 @@ For each item, please include two parts, a link to an article or video to make t
 * Deep reinforcement learning is to personalize gamer experience better at Zenga.
   - [Link to presentation](https://www.youtube.com/watch?v=q4b-HHG5dG4)
 
-  
+* How Telus Applies Model-Based Reinforcement Learning to Reduce Energy Consumption in Data Rooms
+  - [Link to presentation](https://www.caiac.ca/sites/default/files/shared/canai-2021-presentations/slides-138.pdf)
