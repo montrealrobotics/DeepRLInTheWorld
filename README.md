@@ -31,3 +31,6 @@ For each item, please include two parts, a link to an article or video to make t
 * Pre-training quadruped robots in simulation using deep reinforcement learning and then further adapting them in the real world using deep RL to increase real-world performance.
   - [Link to news article](https://bair.berkeley.edu/blog/2020/04/03/laikago/)
   - [Link to publicly available article](https://arxiv.org/abs/2004.00784)
+
+* Training stratospheric balloons using deep RL
+  - [Link to nature article](https://www.nature.com/articles/s41586-020-2939-8)
