@@ -13,3 +13,13 @@ For each item, please include two parts, a link to an article or video to make t
 
 * How Telus (telecomunications company) Applies Model-Based Reinforcement Learning to Reduce Energy Consumption in Data Rooms.
   - [Link to presentation](https://www.caiac.ca/sites/default/files/shared/canai-2021-presentations/slides-138.pdf)
+
+* Deepmind and YouTube use Deep Reinforcement Learning to optimize video compression.
+  - [Link to Blog](https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world), [Link to arXiv](https://arxiv.org/abs/2202.06626)
+
+* Reinforcement Learning to reduce the operating cost of Google data centres by 40%.
+  - [Link to Blog](https://deepmind.com/blog/article/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
+
+* Kindred AI (AI-robotics company) uses Deep Reinforcement Learning to build robots for grasping and manipulation (SORT)
+  - [Link to Blog](https://www.kindred.ai/blog/reinforcement-learning-beat-games-such-as-backgammon-and-go-and-is-paving-a-path-for-smarter-robots), [Link to Trailer](https://youtu.be/PtuOAV47Yyg), Link to Product: [1](https://www.kindred.ai/products), [2](https://www.kindred.ai/autograsp)
+  - [Link to presentation](https://www.caiac.ca/sites/default/files/shared/canai-2021-presentations/slides-138.pdf)
