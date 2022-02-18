@@ -22,3 +22,4 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Kindred AI (AI-robotics company) uses Deep Reinforcement Learning to build robots for grasping and manipulation (SORT)
   - [Link to Blog](https://www.kindred.ai/blog/reinforcement-learning-beat-games-such-as-backgammon-and-go-and-is-paving-a-path-for-smarter-robots), [Link to Trailer](https://youtu.be/PtuOAV47Yyg), Link to Product: [1](https://www.kindred.ai/products), [2](https://www.kindred.ai/autograsp)
+  - [Link to presentation](https://www.caiac.ca/sites/default/files/shared/canai-2021-presentations/slides-138.pdf)
