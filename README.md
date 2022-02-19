@@ -29,3 +29,6 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Controlling magnetic fields in nuclear fusion reactors
   - [Link to nature article](https://www.nature.com/articles/s41586-021-04301-9)
+
+* Using Reinforcement learning for better text summarization
+  - [link to project](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
