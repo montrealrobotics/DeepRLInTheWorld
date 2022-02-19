@@ -26,3 +26,6 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Training stratospheric balloons using deep RL
   - [Link to nature article](https://www.nature.com/articles/s41586-020-2939-8)
+
+* Controlling magnetic fields in nuclear fusion reactors
+  - [Link to nature article](https://www.nature.com/articles/s41586-021-04301-9)
