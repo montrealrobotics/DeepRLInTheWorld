@@ -32,3 +32,8 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Using Reinforcement learning for better text summarization
   - [link to project](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
+
+* Deep reinforcement learning for efficient measurement of quantum devices
+  - [Link to paper](https://www.nature.com/articles/s41534-021-00434-x)
+  - [Link to code](https://github.com/oxquantum-repo/drl_for_quantum_measurement)
+  - [Link to presentation](https://www.oxford-man.ox.ac.uk/event/11th-oxford-man-institute-machine-learning-workshop/)
