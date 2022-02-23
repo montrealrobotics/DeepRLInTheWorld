@@ -32,3 +32,6 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Using Reinforcement learning for better text summarization
   - [link to project](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
+
+* DeepThermal: Optimizing Combustion in thermal power plants
+  - [link to arXiv](https://arxiv.org/abs/2102.11492)
