@@ -34,4 +34,7 @@ For each item, please include two parts, a link to an article or video to make t
   - [link to project](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
 
 * Using deep reinforcement learning to help balance gameplay for players at Riot Games
-  - [link to talk] https://www.anyscale.com/events/2022/03/29/deep-reinforcement-learning-at-riot-games
+  - [link to talk] (https://www.anyscale.com/events/2022/03/29/deep-reinforcement-learning-at-riot-games)
+
+* Siemens has been using RL in specific controlled use cases for many years.
+  - [link to slide deck] (https://speakerdeck.com/anyscale/rl-in-the-physical-world)
