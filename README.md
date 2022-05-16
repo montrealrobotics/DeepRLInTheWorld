@@ -38,3 +38,7 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Siemens has been using RL in specific controlled use cases for many years.
   - [link to slide deck](https://speakerdeck.com/anyscale/rl-in-the-physical-world)
+
+* Foobot uses deep RL to optimize energy consumption of buildings by controlling heating, cooling and ventilation systems
+  - [link to introductory post](https://airboxlab.github.io/hvac/control/ai/reinforcement_learning/2021/01/24/smart_control.html)
+  - [link to first pilot project results](https://airboxlab.github.io/hvac/control/ai/reinforcement_learning/2021/06/21/sab_after_9.html)
