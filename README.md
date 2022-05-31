@@ -33,7 +33,23 @@ For each item, please include two parts, a link to an article or video to make t
 * Using Reinforcement learning for better text summarization
   - [link to project](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
 
+
 * Deep reinforcement learning for efficient measurement of quantum devices
   - [Link to paper](https://www.nature.com/articles/s41534-021-00434-x)
   - [Link to code](https://github.com/oxquantum-repo/drl_for_quantum_measurement)
   - [Link to presentation](https://www.oxford-man.ox.ac.uk/event/11th-oxford-man-institute-machine-learning-workshop/)
+
+* Using deep reinforcement learning to help balance gameplay for players at Riot Games
+  - [link to talk](https://www.anyscale.com/events/2022/03/29/deep-reinforcement-learning-at-riot-games)
+
+* Siemens has been using RL in specific controlled use cases for many years.
+  - [link to slide deck](https://speakerdeck.com/anyscale/rl-in-the-physical-world)
+
+* Foobot uses deep RL to optimize energy consumption of buildings by controlling heating, cooling and ventilation systems
+  - [link to introductory post](https://airboxlab.github.io/hvac/control/ai/reinforcement_learning/2021/01/24/smart_control.html)
+  - [link to first pilot project results](https://airboxlab.github.io/hvac/control/ai/reinforcement_learning/2021/06/21/sab_after_9.html)
+  - Deployed projects (examples):
+    - Construction company headquarters in Copenhagen, Denmark. Control of ventilation rate and air temperature. Running since August 2020.
+    - French cosmectics company, office+lab building. Control of air renewal and temperature. Running since October 2021.
+    - New university campus in Luxembourg. Control of ventilation in amphitheaters. Running since December 2021.
+
