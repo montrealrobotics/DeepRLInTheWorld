@@ -47,3 +47,11 @@ For each item, please include two parts, a link to an article or video to make t
     - Construction company headquarters in Copenhagen, Denmark. Control of ventilation rate and air temperature. Running since August 2020.
     - French cosmectics company, office+lab building. Control of air renewal and temperature. Running since October 2021.
     - New university campus in Luxembourg. Control of ventilation in amphitheaters. Running since December 2021.
+    
+* Microsoft Bonsai teams up with PepsiCo to create better cheetos
+  - [link to introductory post](https://blogs.microsoft.com/ai-for-business/pepsico-perfect-cheetos/)
+  - Deployment 
+    - [article](https://www.wsj.com/articles/ai-enabled-cheetos-offer-promise-of-the-perfect-puff-11608158547)
+    
+* Experience personalization
+  - [Microsoft personalizer](https://azure.microsoft.com/en-us/products/cognitive-services/personalizer/#overview) helps provide more personalized recomendations for users.
