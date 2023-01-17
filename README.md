@@ -55,3 +55,7 @@ For each item, please include two parts, a link to an article or video to make t
     
 * Experience personalization
   - [Microsoft personalizer](https://azure.microsoft.com/en-us/products/cognitive-services/personalizer/#overview) helps provide more personalized recomendations for users.
+  
+* AMazon uses RL for supply chain management
+  - [Supply chain management](https://www.forbes.com/sites/cognitiveworld/2019/06/14/amazon-dives-deep-into-reinforcement-learning/?sh=30c5a7025fe0)
+  
