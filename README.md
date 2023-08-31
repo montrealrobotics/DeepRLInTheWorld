@@ -58,4 +58,7 @@ For each item, please include two parts, a link to an article or video to make t
   
 * AMazon uses RL for supply chain management
   - [Supply chain management](https://www.forbes.com/sites/cognitiveworld/2019/06/14/amazon-dives-deep-into-reinforcement-learning/?sh=30c5a7025fe0)
+
+* Champion-level drone racing using deep reinforcement learning
+  - [Nature paper](https://www.nature.com/articles/s41586-023-06419-4)
   
