@@ -61,4 +61,6 @@ For each item, please include two parts, a link to an article or video to make t
 
 * Champion-level drone racing using deep reinforcement learning
   - [Nature paper](https://www.nature.com/articles/s41586-023-06419-4)
-  
+
+* A Better Match for Drivers and Riders: Reinforcement Learning at Lyft
+  - [link to paper] (https://arxiv.org/abs/2310.13810)
