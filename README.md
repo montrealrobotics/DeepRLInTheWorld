@@ -69,9 +69,9 @@ For each item, please include two parts, a link to an article or video to make t
  -  [Presentation](https://www.dropbox.com/s/hfi7u1ah78w2074/RL4RealLife_Demo.mp4?dl=0)
  -  [Paper](https://drive.google.com/file/d/1xHVl7IxfRTeGsEvhd3wyRs1Rta-vGjPK/view)
 
-* Ocean wave energy harvesting with RL
- -  [Presentation](https://www.dropbox.com/s/hfi7u1ah78w2074/RL4RealLife_Demo.mp4?dl=0)
- -  [Paper](https://drive.google.com/file/d/1xHVl7IxfRTeGsEvhd3wyRs1Rta-vGjPK/view)
-
 * Spotify uses RL for long term Podcast recommendation system
 - [Article](https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/)
+
+* A Better Match for Drivers and Riders: Reinforcement Learning at Lyft
+  - [link to paper] (https://arxiv.org/abs/2310.13810)
+
