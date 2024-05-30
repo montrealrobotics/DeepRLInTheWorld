@@ -56,11 +56,22 @@ For each item, please include two parts, a link to an article or video to make t
 * Experience personalization
   - [Microsoft personalizer](https://azure.microsoft.com/en-us/products/cognitive-services/personalizer/#overview) helps provide more personalized recomendations for users.
   
-* AMazon uses RL for supply chain management
+* Amazon uses RL for supply chain management
   - [Supply chain management](https://www.forbes.com/sites/cognitiveworld/2019/06/14/amazon-dives-deep-into-reinforcement-learning/?sh=30c5a7025fe0)
 
 * Champion-level drone racing using deep reinforcement learning
   - [Nature paper](https://www.nature.com/articles/s41586-023-06419-4)
+  
+* DeepThermal is used to control thermal power plants
+  - [Presentation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj_2pHfhfuBAxUsI0QIHfChB8kQFnoECBoQAQ&url=https%3A%2F%2Fslideslive.com%2Fembed%2Fpresentation%2F38977722%3Fembed_parent_url%3Dhttps%253A%252F%252Faaai-2022.virtualchair.net%252Fposter_aaai4167%26embed_origin%3Dhttps%253A%252F%252Faaai-2022.virtualchair.net%26embed_container_id%3Dintro-video%26auto_load%3Dtrue%26auto_play%3Dfalse%26zoom_ratio%3D%26disable_fullscreen%3Dfalse%26locale%3Den%26vertical_enabled%3Dtrue%26vertical_enabled_on_mobile%3Dfalse%26allow_hidden_controls_when_paused%3Dfalse%26fit_to_viewport%3Dtrue%26custom_user_id%3D%26user_uuid%3D81dd9e99-4f73-4c1e-a959-e20345f63a4a&usg=AOvVaw184-8bvyoMigWHQEnCwFgh&opi=89978449)
+  - [Paper](https://arxiv.org/abs/2102.11492)
+* Ocean wave energy harvesting with RL
+ -  [Presentation](https://www.dropbox.com/s/hfi7u1ah78w2074/RL4RealLife_Demo.mp4?dl=0)
+ -  [Paper](https://drive.google.com/file/d/1xHVl7IxfRTeGsEvhd3wyRs1Rta-vGjPK/view)
+
+* Spotify uses RL for long term Podcast recommendation system
+- [Article](https://research.atspotify.com/2023/07/optimizing-for-the-long-term-without-delay/)
 
 * A Better Match for Drivers and Riders: Reinforcement Learning at Lyft
   - [link to paper] (https://arxiv.org/abs/2310.13810)
+
