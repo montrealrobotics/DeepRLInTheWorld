@@ -76,3 +76,37 @@ For each item, please include two parts, a link to an article or video to make t
 * A Better Match for Drivers and Riders: Reinforcement Learning at Lyft
   - [Paper](https://arxiv.org/abs/2310.13810)
 
+* Ads Bidding System with RL (2024)
+  - [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671555)
+
+* Ads Rewrite with RL from Ads Performance Feedback (2024)
+  - [Paper](https://arxiv.org/abs/2507.21983)
+
+* RL for Data Center Migration (2024)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10726639/)
+
+* Facebook Reels exploration system (2024)
+  - [Paper](https://arxiv.org/abs/2412.04484)
+
+* Ads Recommender System with RL (2023)
+  - [Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608854)
+
+* Gran Turismo Sophy (Sony AI): a deep RL agent that outraced champion Gran Turismo drivers, later shipped as a playable AI opponent in Gran Turismo 7.
+  - [Nature paper](https://www.nature.com/articles/s41586-021-04357-7)
+  - [Open-source code](https://github.com/SonyResearch/gt_sophy_public)
+  - [In-game deployment (GT7 Racing Together Pack DLC)](https://www.gran-turismo.com/us/products/gt7/powerpack/)
+
+* Air Traffic Deconfliction with RL (Boeing / UIUC): an RL-trained aircraft collision-avoidance policy validated in a full-scale airplane flight demonstration.
+  - [Paper](https://arxiv.org/abs/2301.01861)
+
+* Autonomous Network (Cyber) Defense with RL (Apple, CAGE Challenge): RL agents trained to defend simulated enterprise networks against attackers, benchmarked on the public CAGE Challenge.
+  - [Paper](https://arxiv.org/abs/2211.15557)
+  - [Open benchmark/code](https://github.com/cage-challenge/cage-challenge-2)
+
+* Closed-loop Insulin Delivery for Type 1 Diabetes (Diabeloop DBLG system): an RL-informed automated insulin delivery system validated in real-world clinical trials and since FDA/CE-cleared as a commercial product.
+  - [Clinical trial results (The Lancet Digital Health)](https://www.diabeloop.com/info-press/publication-in-the-lancet-digital-health-of-the-positive-results-of-the-wp7-clinical-trial-with-diabeloops-integrated-dblg1-system-in-real-life)
+  - [FDA clearance announcement](https://www.diabeloop.com/news/company/diabeloop-fda-clearance-en)
+
+* Content Moderation Calibration with RL (Meta): a contextual bandit that calibrates content-risk models in production, improving Meta's top-line content moderation metric by 13%.
+  - [Paper](https://arxiv.org/abs/2211.06516)
+
